@@ -149,7 +149,7 @@ console.log(t2); // 3
 
 - Keys
 
-  <img src="public/image-2.png" alt="Unpacking" style="width: 50px; height: 50px; display: inline-block; margin: 0 auto;" />
+  <!-- <img src="public/image-2.png" alt="Unpacking" style="width: 50px; height: 50px; display: inline-block; margin: 0 auto;" /> -->
 
 <br>
 
