@@ -34,7 +34,7 @@ mdc: true
 
 <br>
 
-<img src="image.png" alt="Unpacking" style="width: 600px; height: 400px; display: inline-block; margin: 0 auto;" />
+<img src="public/image.png" alt="Unpacking" style="width: 600px; height: 400px; display: inline-block; margin: 0 auto;" />
 
 </v-clicks>
 
@@ -149,7 +149,7 @@ console.log(t2); // 3
 
 - Keys
 
-  <img src="image-2.png" alt="Unpacking" style="width: 50px; height: 50px; display: inline-block; margin: 0 auto;" />
+  <img src="public/image-2.png" alt="Unpacking" style="width: 50px; height: 50px; display: inline-block; margin: 0 auto;" />
 
 <br>
 
@@ -256,6 +256,6 @@ console.log(age); // 35 (default value assigned since 'age' is not defined in 'p
 
 <v-clicks style="text-align: center;">
 
-<img src="image-1.png" alt="Thank you " style="width: 800px; height: 500px; display: inline-block; margin: 0 auto;" />
+<img src="public/image-1.png" alt="Thank you " style="width: 800px; height: 500px; display: inline-block; margin: 0 auto;" />
 
 </v-clicks>
